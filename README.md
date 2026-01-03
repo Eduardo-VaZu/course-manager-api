@@ -134,13 +134,6 @@ src/main/java/com/university/course_manager_api/
     └── StudentService.java
 ```
 
-## 🧪 Testing
-
-Ejecutar los tests:
-```bash
-mvnw test
-```
-
 ## 📮 Colección Postman
 
 El proyecto incluye un archivo `course-manager_collection.json` con ejemplos de todas las peticiones API. Importa este archivo en Postman para probar los endpoints.
@@ -161,10 +154,4 @@ El proyecto incluye un archivo `course-manager_collection.json` con ejemplos de 
 - SQL queries se muestran en consola (`show-sql: true`)
 - Actuator habilitado para monitoreo en `/actuator`
 
-## 🤝 Contribución
 
-Co-Authored-By: Warp <agent@warp.dev>
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la licencia que especifiques.
